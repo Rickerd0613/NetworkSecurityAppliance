@@ -1,0 +1,7 @@
+{
+    "blacklist": [],
+    "honeypotpath": "",
+    "rulepath": "",
+    "ruletype": "suricata",
+    "whitelist": []
+}
